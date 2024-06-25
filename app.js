@@ -1,5 +1,5 @@
-console.log("Hello")
+console.log("Hello");
 
-let date =new Date()
+let date = new Date();
 
-console.log(date)
+console.log(date);
